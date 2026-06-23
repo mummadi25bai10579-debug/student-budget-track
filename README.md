@@ -14,6 +14,11 @@
 **Experience the app here:** [Student Budget Tracker on Vercel](https://student-budget-track-fgp3v086b.vercel.app)
 
 ---
+## ⚠️ Troubleshooting & Known Issues
+
+If you experience synchronization or display issues while using the app, please ensure the following:
+1. **Single Tab Usage:** The application runs optimally in a single tab. Please close any duplicate tabs of the tracker.
+2. **Refresh Environment:** If data is not loading, close all other browser tabs to free up memory and refresh the application page.
 
 ## 📖 Overview
 
