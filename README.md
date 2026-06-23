@@ -18,7 +18,7 @@
 
 If you experience synchronization or display issues while using the app, please ensure the following:
 1. **Single Tab Usage:** The application runs optimally in a single tab. Please close any duplicate tabs of the tracker.
-2. **Refresh Environment:** If data is not loading, close all other browser tabs to free up memory and refresh the application page.
+2. **Refresh Environment:** If data is not loading, close all other browser tabs to free up memory and refresh the application page.(if any fire base error )
 
 ## 📖 Overview
 
