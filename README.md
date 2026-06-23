@@ -1,52 +1,97 @@
-Student Budget Tracker
+# 📊 Student Budget Tracker
 
-Overview
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🌐 Live Demo
+**Experience the app here:** [Student Budget Tracker on Vercel](https://student-budget-track-fgp3v086b.vercel.app)
+
+---
+
+## 📖 Overview
 
 Student Budget Tracker is a smart personal finance management application designed specifically for students. The application helps users manage their monthly budgets, track expenses, monitor spending patterns, receive budget alerts, and analyze financial habits through detailed reports and analytics.
 
-Features
+---
 
-Authentication
+<details open>
+<summary><b>📑 Table of Contents</b></summary>
+
+- [✨ Features](#-features)
+- [🛠 Technology Stack](#-technology-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Installation](#-installation)
+- [💡 Use Cases](#-use-cases)
+- [🔮 Future Enhancements](#-future-enhancements)
+- [👥 Team](#-team)
+- [📝 Conclusion](#-conclusion)
+
+</details>
+
+---
+
+## ✨ Features
+
+*Click on the sections below to expand and explore the application's details!*
+
+<details>
+<summary><b>🔐 Authentication</b></summary>
 
 - Email and Password Login
 - Google Sign-In Authentication
 - Secure User Account Management
+</details>
 
-Budget Management
+<details>
+<summary><b>💰 Budget Management</b></summary>
 
 - Set Monthly Budget
 - Category-wise Budget Allocation
 - Budget Progress Tracking
 - Remaining Budget Calculation
+</details>
 
-Expense Tracking
+<details>
+<summary><b>💸 Expense Tracking</b></summary>
 
 - Add Daily Expenses
 - Categorize Expenses
 - View Expense History
 - Real-time Budget Updates
+</details>
 
-Income Management
+<details>
+<summary><b>💵 Income Management</b></summary>
 
 - Add Student Allowance
 - Record Additional Income Sources
 - Income History Tracking
+</details>
 
-Reports & Analytics
+<details>
+<summary><b>📊 Reports & Analytics</b></summary>
 
 - Weekly Reports
 - Monthly Reports
 - Yearly Reports
 - Spending Trend Analysis
 - Category-wise Expense Distribution
+</details>
 
-Notifications
+<details>
+<summary><b>🔔 Notifications</b></summary>
 
 - Budget Usage Alerts
 - Spending Limit Warnings
 - Income Update Notifications
+</details>
 
-Technology Stack
+---
+
+## 🛠 Technology Stack
 
 - React
 - TypeScript
@@ -55,9 +100,13 @@ Technology Stack
 - Firestore Database
 - Tailwind CSS
 
-Project Structure
+---
 
+## 📁 Project Structure
+
+```text
 src/
+
 ├── components/
 ├── pages/
 ├── context/
@@ -65,54 +114,6 @@ src/
 ├── hooks/
 ├── utils/
 └── assets/
-
-Installation
-
-1. Clone the repository
-
-git clone <repository-url>
-
-2. Install dependencies
-
-npm install
-
-3. Run the project
-
-npm run dev
-
-4. Build for production
-
-npm run build
-
-Use Cases
-
-- Monthly budget planning
-- Student expense tracking
-- Financial awareness
-- Spending behavior analysis
-- Personal finance management
-
-Future Enhancements
-
-- AI-based spending insights
-- Expense prediction system
-- Savings goal tracking
-- Export reports to PDF
-- Multi-device synchronization
-- Smart financial recommendations
-
-Team
-
-Team Name
-
-THE BOYS
-
-Team Members
-
-- Mummadi Nageshwar Reddy
-- Dulam Anvesh Goud
-
-
-Conclusion
-
-Student Budget Tracker provides an easy-to-use platform for students to manage their finances efficiently. The application promotes better budgeting habits, financial discipline, and informed spending decisions through real-time tracking and analytics.
+##TEAM MEMBERS:
+DULAM ANVESH GOUD (LEAD)
+MUMMADI NAGESHWAR REDDY
