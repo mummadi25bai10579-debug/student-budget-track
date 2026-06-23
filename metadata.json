@@ -1,0 +1,6 @@
+{
+  "name": "Student Budget Tracker",
+  "description": "An intuitive student expense and budget tracker application with visual charts, category-wise budgets, alerts, reports, and transaction logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
