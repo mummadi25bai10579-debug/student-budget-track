@@ -5,11 +5,11 @@ import { getFirestore } from 'firebase/firestore';
 const env = (import.meta as any).env;
 
 const firebaseConfig = {
-  apiKey: env.VITE_FIREBASE_API_KEY || "YOUR_API_KEY",
-  authDomain: env.VITE_FIREBASE_AUTH_DOMAIN || "YOUR_AUTH_DOMAIN",
-  projectId: env.VITE_FIREBASE_PROJECT_ID || "YOUR_PROJECT_ID",
-  messagingSenderId: env.VITE_FIREBASE_MESSAGING_SENDER_ID || "YOUR_MESSAGING_SENDER_ID",
-  appId: env.VITE_FIREBASE_APP_ID || "YOUR_APP_ID"
+  apiKey: env.VITE_FIREBASE_API_KEY || "AIzaSyDvkYOONpMjIlvdacxAyxUndKobn-PEu38",
+  authDomain: env.VITE_FIREBASE_AUTH_DOMAIN || "student-budget-tracker-48ec7.firebaseapp.com",
+  projectId: env.VITE_FIREBASE_PROJECT_ID || "student-budget-tracker-48ec7",
+  messagingSenderId: env.VITE_FIREBASE_MESSAGING_SENDER_ID || "105475398945",
+  appId: env.VITE_FIREBASE_APP_ID || "105475398945"
 };
 
 const app = initializeApp(firebaseConfig);
